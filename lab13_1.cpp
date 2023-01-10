@@ -23,5 +23,5 @@ int fibonacci (int x){
         int sum = (int)fibonacci(x-1) + fibonacci(x-2) ;
         return sum ;
     }
-    
+    return 0 ;
 }
